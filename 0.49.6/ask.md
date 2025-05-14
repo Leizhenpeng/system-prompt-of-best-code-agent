@@ -56,7 +56,7 @@ If you see a section called "<most_important_user_query>", you should treat that
 </summarization>
 
 <user_info>
-The user's OS version is win32 10.0.22631. The absolute path of the user's workspace is /c%3A/Users/PC/dev/simen/Simen. The user's shell is C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe. 
+The user's OS version is win32 10.0.22631. The absolute path of the user's workspace is /c%3A/Users/PC/dev/. The user's shell is C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe. 
 </user_info>
 
 
